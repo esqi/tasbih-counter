@@ -3,7 +3,7 @@ package com.aktiadi.tasbihcounter.tile
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
-class MainTileServiceKtTest {
+class TileUIKtTest {
 
     @Test
     fun countToText0() {
